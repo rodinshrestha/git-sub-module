@@ -1,4 +1,4 @@
-console.log('git sub module changed by parent module');
+console.log('git core module updated');
 
 export const test = () => {
     console.log('fn is called')
